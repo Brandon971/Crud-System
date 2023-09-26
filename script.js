@@ -1,14 +1,14 @@
 var users = [
     {
       id: 1,
-      name: "Bob",
-      address: "Manila",
+      name: "Brandon",
+      address: "Colorado",
       age: 27
     },
     {
       id: 2,
-      name: "Harry",
-      address: "Baguio",
+      name: "Napoleon",
+      address: "France",
       age: 32
     }
   ];
