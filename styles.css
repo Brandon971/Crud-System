@@ -1,0 +1,61 @@
+body {
+    font-family:  Verdana, Geneva, Tahoma, sans-serif !important;
+    background-image:url(./assets/pexels-ron-lach-10526880.jpg) !important;
+}
+
+.container{
+    box-shadow:  rgba(0, 0, 0, 0.1) 0 4px 12px;
+    background-color: white;
+    padding: 50px;
+    border-radius: 15px;
+    margin: 25vh;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    transition: all 0.2s ease-in;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.Editbtn, .Submitbtn{
+    background-color: black !important;
+    color: white !important;
+    transition: all 0.1s ease-in !important;
+}
+.Editbtn:hover{
+    background-color: white !important;
+    color: black !important;
+}
+.Submitbtn:hover{
+    background-color: white !important;
+    color: black !important;
+}
+
+.Deletebtn{
+    background-color: rgb(182, 0, 0) !important;
+    color: white !important;
+    transition: all 0.1s ease-in;
+}
+.Deletebtn:hover{
+    background-color: white !important;
+    color: rgb(182, 0, 0) !important;
+}
+
+.modal-header{
+    background-color: black;
+}
+.modal-title{
+    color: white;
+}
+
+.modal-footer{
+    background-color: black !important;
+}
+
+.cloze{
+    color: white;
+}
